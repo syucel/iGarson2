@@ -8,7 +8,7 @@ namespace iGarson
 	{
 		Button loginButton = new Button
 		{
-			Text = "LOGIN",
+			Text = "login",
 			TextColor = Color.White,
 			BackgroundColor = Color.FromHex("77D065")
 		};
