@@ -1,0 +1,9 @@
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\iGarson.dll
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\iGarson.pdb
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\obj\Release\iGarson.csprojResolveAssemblyReference.cache
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\obj\Release\iGarson.dll
+C:\Users\gencersumbul\Desktop\iGarson\iGarson\obj\Release\iGarson.pdb
